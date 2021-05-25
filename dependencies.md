@@ -27,6 +27,11 @@ Versions are not provided, because they are very prone to changes.
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-starter-data-jpa</artifactId>
   
+  * ###Spring starter mail
+
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-mail</artifactId>
+  
 * ##Testing
   * ###Spring testing  (contains assertj-core / mockito-core / mockito-junit-jupiter)
   
@@ -119,4 +124,3 @@ Versions are not provided, because they are very prone to changes.
 
 
 
-      
