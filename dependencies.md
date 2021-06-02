@@ -32,8 +32,13 @@ Versions are not provided, because they are very prone to changes.
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-starter-mail</artifactId>
   
+  * ###Spring validation (validation based on annotations)
+  
+          <groupId>org.springframework.boot</groupId>
+          <artifactId>spring-boot-starter-validation</artifactId>
+  
 * ##Testing
-  * ###Spring testing  (contains assertj-core / mockito-core / mockito-junit-jupiter)
+  * ###Spring testing (contains assertj-core / mockito-core / mockito-junit-jupiter)
   
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-starter-test</artifactId>
@@ -116,6 +121,11 @@ Versions are not provided, because they are very prone to changes.
 
          <groupId>org.modelmapper</groupId>
          <artifactId>modelmapper</artifactId>
+  
+   * ###Jackson-Databind (Mapping a DTO to a map)
+
+         <groupId>com.fasterxml.jackson.core</groupId>
+         <artifactId>jackson-databind</artifactId>
 
 
 
